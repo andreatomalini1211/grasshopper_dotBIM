@@ -13763,12 +13763,12 @@
         "ZCentroide": "11"
       },
       "color": {
-        "r": 255,
-        "g": 212,
-        "b": 0,
+        "r": 0,
+        "g": 144,
+        "b": 255,
         "a": 255
       },
-      "guid": "78a10b5c-508f-4ad7-9e40-b1bb96b78282",
+      "guid": "92be73b6-ca67-4b05-9bab-fd0a34432b3d",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13791,12 +13791,12 @@
         "ZCentroide": "2"
       },
       "color": {
-        "r": 255,
-        "g": 212,
-        "b": 0,
+        "r": 0,
+        "g": 144,
+        "b": 255,
         "a": 255
       },
-      "guid": "562fe4fd-b5e5-4409-8be5-e50bed3e94a4",
+      "guid": "3fffa801-89b9-497c-ac9a-e1c4bbf46419",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13814,7 +13814,7 @@
   ],
   "info": {
     "Author": "Andrea T",
-    "Date": "2025-07-04T15:47:11",
+    "Date": "2025-07-04T15:47:55",
     "Title": "Test con BET",
     "Cliente": "Alberto",
     "Indirizzo": "Torino",

@@ -13708,11 +13708,11 @@
       },
       "color": {
         "r": 255,
-        "g": 0,
+        "g": 212,
         "b": 0,
         "a": 255
       },
-      "guid": "54991b78-9d72-4cd4-95c9-796cab60c910",
+      "guid": "d45c6f87-ce58-489f-92fb-b5f2f531e1d4",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13736,11 +13736,11 @@
       },
       "color": {
         "r": 255,
-        "g": 0,
+        "g": 212,
         "b": 0,
         "a": 255
       },
-      "guid": "c6ea67c3-2c73-49cf-aa17-8e0df3a8ec20",
+      "guid": "a34cdbfc-921b-4b20-9196-b2bf62fc4020",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13768,7 +13768,7 @@
         "b": 0,
         "a": 255
       },
-      "guid": "4051238b-39c4-4db6-b9fa-c0ad85051eeb",
+      "guid": "78a10b5c-508f-4ad7-9e40-b1bb96b78282",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13796,7 +13796,7 @@
         "b": 0,
         "a": 255
       },
-      "guid": "62d2ad79-879f-4997-ab52-8375e7075d0c",
+      "guid": "562fe4fd-b5e5-4409-8be5-e50bed3e94a4",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13814,7 +13814,7 @@
   ],
   "info": {
     "Author": "Andrea T",
-    "Date": "2025-07-04T15:44:31",
+    "Date": "2025-07-04T15:46:26",
     "Title": "Test con BET",
     "Cliente": "Alberto",
     "Indirizzo": "Torino",

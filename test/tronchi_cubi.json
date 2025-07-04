@@ -13712,7 +13712,7 @@
         "b": 0,
         "a": 255
       },
-      "guid": "812a620a-33b4-4b32-88a2-ca1779c7b23f",
+      "guid": "698b842d-833b-4568-ae94-90adaf8799ce",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13735,12 +13735,12 @@
         "ZCentroide": "7"
       },
       "color": {
-        "r": 0,
-        "g": 144,
-        "b": 255,
+        "r": 255,
+        "g": 0,
+        "b": 0,
         "a": 255
       },
-      "guid": "64995d9a-3894-40a0-a718-241d2471c282",
+      "guid": "098b8ce5-ab61-44bb-9d26-debd0e0f1a2a",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13764,11 +13764,11 @@
       },
       "color": {
         "r": 255,
-        "g": 212,
+        "g": 0,
         "b": 0,
         "a": 255
       },
-      "guid": "17572138-2f53-4d87-bbf2-c5c45bb6e57e",
+      "guid": "17c16995-cece-427f-bcf8-3785cc31b690",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13791,12 +13791,12 @@
         "ZCentroide": "2"
       },
       "color": {
-        "r": 64,
-        "g": 255,
+        "r": 255,
+        "g": 0,
         "b": 0,
         "a": 255
       },
-      "guid": "96b7abaf-1240-46ca-b592-ac9f650ef16f",
+      "guid": "a38f25a6-7c41-4639-9d3a-c9eebdf2bc7b",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13814,7 +13814,7 @@
   ],
   "info": {
     "Author": "Andrea T",
-    "Date": "2025-07-04T16:13:29",
+    "Date": "2025-07-04T16:16:49",
     "Title": "Test con BET",
     "Cliente": "Alberto",
     "Indirizzo": "Torino",

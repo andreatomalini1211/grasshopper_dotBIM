@@ -4,6 +4,8 @@ This is an initial test developing Grasshopper components to convert **IFC files
 Future steps will involve creating components for the reverse process (dotBIM back to IFC).
 The `/test` folder contains the original IFC file and the generated results.
 
+[(./img/gh_code.png)]
+
 ---
 
 ## 3D Viewer

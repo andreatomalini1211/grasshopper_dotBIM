@@ -13471,7 +13471,7 @@
         "b": 0,
         "a": 255
       },
-      "guid": "d581820f-64e2-4768-bcbd-a68f434c9168",
+      "guid": "9f18a8f9-c8ca-42a3-b1dc-ae8f3bee1d8b",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13490,7 +13490,7 @@
       "info": {
         "Name": "cube B",
         "discipline": "MEP",
-        "category": null
+        "category": "Window"
       },
       "color": {
         "r": 64,
@@ -13498,7 +13498,7 @@
         "b": 0,
         "a": 255
       },
-      "guid": "fe554cad-9114-4fd4-aaf2-9330166d3ce1",
+      "guid": "f174d5a9-fcff-4e43-9dba-690d7c8b6d8b",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13525,7 +13525,7 @@
         "b": 255,
         "a": 255
       },
-      "guid": "803db4ea-d9cd-47f0-acf4-8afc4984c47e",
+      "guid": "e015601e-24c7-4bc5-bcfe-9fd50ac9a521",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13544,7 +13544,7 @@
       "info": {
         "Name": "cone B",
         "discipline": "STR",
-        "category": null
+        "category": "Wall"
       },
       "color": {
         "r": 0,
@@ -13552,7 +13552,7 @@
         "b": 255,
         "a": 255
       },
-      "guid": "55d9a294-f8c5-4003-9fa2-a576cfff03c5",
+      "guid": "6c608367-a82c-4915-ac3c-897862c3fce3",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13570,7 +13570,7 @@
   ],
   "info": {
     "Author": "Andrea T",
-    "Date": "2025-12-05T16:35:12",
+    "Date": "2025-12-05T16:36:17",
     "Title": "cones and cubes",
     "address": "turin",
     "test": "test value"

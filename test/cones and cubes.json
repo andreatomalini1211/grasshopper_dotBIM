@@ -13463,7 +13463,7 @@
       "info": {
         "Name": "cube A",
         "discipline": "ARC",
-        "category": "Wall"
+        "category": "Window"
       },
       "color": {
         "r": 255,
@@ -13471,7 +13471,7 @@
         "b": 0,
         "a": 255
       },
-      "guid": "941ba174-2e67-4c22-a877-cc3d0ebba7ae",
+      "guid": "d581820f-64e2-4768-bcbd-a68f434c9168",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13498,7 +13498,7 @@
         "b": 0,
         "a": 255
       },
-      "guid": "765955d4-78fe-4280-b265-e7ece3b12b67",
+      "guid": "fe554cad-9114-4fd4-aaf2-9330166d3ce1",
       "rotation": {
         "qx": 0.0,
         "qy": 0.0,
@@ -13570,7 +13570,7 @@
   ],
   "info": {
     "Author": "Andrea T",
-    "Date": "2025-12-05T13:07:48",
+    "Date": "2025-12-05T16:35:12",
     "Title": "cones and cubes",
     "address": "turin",
     "test": "test value"

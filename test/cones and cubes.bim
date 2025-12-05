@@ -13574,15 +13574,6 @@
     "Title": "cones and cubes",
     "address": "turin",
     "test": "test value",
-    "comments": [
-      {
-        "uuid": "55d9a294-f8c5-4003-9fa2-a576cfff03c5",
-        "text": "comment test"
-      },
-      {
-        "uuid": "941ba174-2e67-4c22-a877-cc3d0ebba7ae",
-        "text": "comment 2"
-      }
-    ]
+    "comments": []
   }
 }

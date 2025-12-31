@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "generated_by": "React-BIM-CDE",
-    "date": "2025-12-31T15:58:40.713Z"
+    "date": "2025-12-31T15:59:00.204Z"
   },
   "topics": [
     {
@@ -19,6 +19,25 @@
         "pinpoint": null
       },
       "comment": "commento soffitto"
+    },
+    {
+      "guid": "4qxq9px76",
+      "title": "Issue",
+      "priority": "Normal",
+      "index": 0,
+      "creation_date": "2025-12-31T15:58:58.207Z",
+      "author": "andreatomalini1211",
+      "markup": {
+        "element_refs": [
+          "6d5d7516-3457-48b5-8c7b-439287522a88"
+        ],
+        "pinpoint": {
+          "x": -1.2503005878070024,
+          "y": 9.14000034332274,
+          "z": 60.93405820556339
+        }
+      },
+      "comment": "piastrella rotta"
     },
     {
       "guid": "dkpjngzcd",

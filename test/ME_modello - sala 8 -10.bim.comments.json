@@ -2,24 +2,9 @@
   "meta": {
     "version": "1.0",
     "generated_by": "React-BIM-CDE",
-    "date": "2025-12-31T15:49:23.908Z"
+    "date": "2025-12-31T15:49:34.608Z"
   },
   "topics": [
-    {
-      "guid": "ph5lminzu",
-      "title": "Issue",
-      "priority": "Normal",
-      "index": 0,
-      "creation_date": "2025-12-31T15:48:55.506Z",
-      "author": "andreatomalini1211",
-      "markup": {
-        "element_refs": [
-          "a92d7276-f78f-4cf2-856d-56b73935d5f5"
-        ],
-        "pinpoint": null
-      },
-      "comment": "commento soffitto"
-    },
     {
       "guid": "dkpjngzcd",
       "title": "Issue",

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_by": "React-BIM-CDE",
+    "date": "2025-12-31T15:18:08.299Z"
+  },
+  "topics": [
+    {
+      "guid": "6yxhu4ix1",
+      "title": "Issue",
+      "priority": "Normal",
+      "index": 0,
+      "creation_date": "2025-12-31T15:17:51.771Z",
+      "author": "andreatomalini1211",
+      "markup": {
+        "element_refs": [
+          "34e3ec68-f320-40f1-833e-1b15444c13d0"
+        ],
+        "pinpoint": {
+          "x": -13.422857422347317,
+          "y": 12.21000803126563,
+          "z": 63.598670238226575
+        }
+      },
+      "comment": "crepa"
+    },
+    {
+      "guid": "li0szup7p",
+      "title": "Issue",
+      "priority": "Normal",
+      "index": 0,
+      "creation_date": "2025-12-31T15:18:07.217Z",
+      "author": "andreatomalini1211",
+      "markup": {
+        "element_refs": [
+          "34e3ec68-f320-40f1-833e-1b15444c13d0"
+        ],
+        "pinpoint": {
+          "x": -17.44753272006597,
+          "y": 10.846185277787963,
+          "z": 63.59406728605097
+        }
+      },
+      "comment": "crepa 2"
+    }
+  ]
+}

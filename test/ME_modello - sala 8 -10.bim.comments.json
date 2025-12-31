@@ -2,7 +2,23 @@
   "meta": {
     "version": "1.0",
     "generated_by": "React-BIM-CDE",
-    "date": "2025-12-31T15:59:33.978Z"
+    "date": "2025-12-31T16:03:03.998Z"
   },
-  "topics": []
+  "topics": [
+    {
+      "guid": "gg2t4avvm",
+      "title": "Issue",
+      "priority": "Normal",
+      "index": 0,
+      "creation_date": "2025-12-31T16:03:01.592Z",
+      "author": "andreatomalini1211",
+      "markup": {
+        "element_refs": [
+          "34e3ec68-f320-40f1-833e-1b15444c13d0"
+        ],
+        "pinpoint": null
+      },
+      "comment": "commento muro"
+    }
+  ]
 }

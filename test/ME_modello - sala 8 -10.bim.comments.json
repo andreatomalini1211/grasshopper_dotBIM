@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "generated_by": "React-BIM-CDE",
-    "date": "2025-12-31T16:52:57.188Z"
+    "date": "2025-12-31T16:55:07.280Z"
   },
   "topics": [
     {
@@ -23,6 +23,25 @@
         }
       },
       "comment": "crepa"
+    },
+    {
+      "guid": "0kytz2va6",
+      "title": "Issue",
+      "priority": "Normal",
+      "index": 0,
+      "creation_date": "2025-12-31T16:55:05.955Z",
+      "author": "andreatomalini1211",
+      "markup": {
+        "element_refs": [
+          "c5041c9a-7cf4-4fd6-9581-cbebad9a1374"
+        ],
+        "pinpoint": {
+          "x": -27.344701766967773,
+          "y": 15.73451457351233,
+          "z": 58.83782354117659
+        }
+      },
+      "comment": "crepa 2"
     }
   ]
 }

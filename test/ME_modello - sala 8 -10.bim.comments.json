@@ -2,42 +2,7 @@
   "meta": {
     "version": "1.0",
     "generated_by": "React-BIM-CDE",
-    "date": "2025-12-31T16:03:26.853Z"
+    "date": "2025-12-31T16:03:37.747Z"
   },
-  "topics": [
-    {
-      "guid": "8739oeuca",
-      "title": "Issue",
-      "priority": "Normal",
-      "index": 0,
-      "creation_date": "2025-12-31T16:03:24.422Z",
-      "author": "andreatomalini1211",
-      "markup": {
-        "element_refs": [
-          "a92d7276-f78f-4cf2-856d-56b73935d5f5"
-        ],
-        "pinpoint": {
-          "x": -3.3628199139748025,
-          "y": 17.659999847412095,
-          "z": 60.57611160264123
-        }
-      },
-      "comment": "crepa soffitto"
-    },
-    {
-      "guid": "gg2t4avvm",
-      "title": "Issue",
-      "priority": "Normal",
-      "index": 0,
-      "creation_date": "2025-12-31T16:03:01.592Z",
-      "author": "andreatomalini1211",
-      "markup": {
-        "element_refs": [
-          "34e3ec68-f320-40f1-833e-1b15444c13d0"
-        ],
-        "pinpoint": null
-      },
-      "comment": "commento muro"
-    }
-  ]
+  "topics": []
 }

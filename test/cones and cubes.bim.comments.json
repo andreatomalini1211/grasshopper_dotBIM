@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "generated_by": "React-BIM-CDE",
-    "date": "2026-01-02T10:54:49.554Z"
+    "date": "2026-01-02T10:55:59.662Z"
   },
   "topics": [
     {
@@ -49,6 +49,25 @@
         "pinpoint": null
       },
       "comment": "tt"
+    },
+    {
+      "guid": "vlktofdzh",
+      "title": "Issue",
+      "priority": "Normal",
+      "index": 0,
+      "creation_date": "2026-01-02T10:55:57.033Z",
+      "author": "andreatomalini1211",
+      "markup": {
+        "element_refs": [
+          "8ec67cf8-62ab-4bb7-a5e3-f351f91e8b7e"
+        ],
+        "pinpoint": {
+          "x": 10.988515512589139,
+          "y": -1.0927282736437687,
+          "z": 1.8281004400138128
+        }
+      },
+      "comment": "bla"
     }
   ]
 }

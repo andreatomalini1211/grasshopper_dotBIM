@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "generated_by": "React-BIM-CDE",
-    "date": "2026-01-02T10:57:46.957Z"
+    "date": "2026-01-02T11:01:38.012Z"
   },
   "topics": [
     {
@@ -72,59 +72,6 @@
         }
       },
       "comment": "bla 2"
-    },
-    {
-      "guid": "32vy9ljc7",
-      "title": "Issue",
-      "priority": "Normal",
-      "index": 0,
-      "creation_date": "2026-01-02T10:54:38.505Z",
-      "author": "andreatomalini1211",
-      "markup": {
-        "element_refs": [
-          "8ec67cf8-62ab-4bb7-a5e3-f351f91e8b7e"
-        ],
-        "pinpoint": null
-      },
-      "comment": "tt"
-    },
-    {
-      "guid": "vlktofdzh",
-      "title": "Issue",
-      "priority": "Normal",
-      "index": 0,
-      "creation_date": "2026-01-02T10:55:57.033Z",
-      "author": "andreatomalini1211",
-      "markup": {
-        "element_refs": [
-          "8ec67cf8-62ab-4bb7-a5e3-f351f91e8b7e"
-        ],
-        "pinpoint": {
-          "x": 10.988515512589139,
-          "y": -1.0927282736437687,
-          "z": 1.8281004400138128
-        }
-      },
-      "comment": "bla"
-    },
-    {
-      "guid": "suenvlsx9",
-      "title": "Issue",
-      "priority": "Normal",
-      "index": 0,
-      "creation_date": "2026-01-02T10:57:00.538Z",
-      "author": "andreatomalini1211",
-      "markup": {
-        "element_refs": [
-          "8ec67cf8-62ab-4bb7-a5e3-f351f91e8b7e"
-        ],
-        "pinpoint": {
-          "x": 11.581358517445214,
-          "y": 1.8803722122312616,
-          "z": -1.0594518010730734
-        }
-      },
-      "comment": "fff"
     }
   ]
 }

@@ -2,7 +2,53 @@
   "meta": {
     "version": "1.0",
     "generated_by": "React-BIM-CDE",
-    "date": "2026-01-01T10:53:34.892Z"
+    "date": "2026-01-02T10:54:49.554Z"
   },
-  "topics": []
+  "topics": [
+    {
+      "guid": "ak6fzocbd",
+      "title": "Issue",
+      "priority": "Normal",
+      "index": 0,
+      "creation_date": "2026-01-02T10:54:45.917Z",
+      "author": "andreatomalini1211",
+      "markup": {
+        "element_refs": [
+          "9f18a8f9-c8ca-42a3-b1dc-ae8f3bee1d8b"
+        ],
+        "pinpoint": null
+      },
+      "comment": "tttt"
+    },
+    {
+      "guid": "domqqtnlf",
+      "title": "Issue",
+      "priority": "Normal",
+      "index": 0,
+      "creation_date": "2026-01-02T10:54:25.895Z",
+      "author": "andreatomalini1211",
+      "markup": {
+        "element_refs": [
+          "f174d5a9-fcff-4e43-9dba-690d7c8b6d8b"
+        ],
+        "pinpoint": null
+      },
+      "comment": "test"
+    },
+    {
+      "guid": "32vy9ljc7",
+      "title": "Issue",
+      "priority": "Normal",
+      "index": 0,
+      "creation_date": "2026-01-02T10:54:38.505Z",
+      "author": "andreatomalini1211",
+      "markup": {
+        "element_refs": [
+          "8ec67cf8-62ab-4bb7-a5e3-f351f91e8b7e"
+        ],
+        "pinpoint": null
+      },
+      "comment": "tt"
+    }
+  ]
 }

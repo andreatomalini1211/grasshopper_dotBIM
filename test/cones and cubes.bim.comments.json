@@ -2,84 +2,23 @@
   "meta": {
     "version": "1.0",
     "generated_by": "React-BIM-CDE",
-    "date": "2026-01-02T11:04:04.339Z"
+    "date": "2026-01-04T00:05:46.821Z"
   },
   "topics": [
     {
-      "guid": "t7k21hn0d",
+      "guid": "jbb2c0o5v",
       "title": "Issue",
-      "priority": "Medium",
+      "priority": "High",
       "index": 0,
-      "creation_date": "2026-01-02T11:03:39.699Z",
+      "creation_date": "2026-01-04T00:05:44.552Z",
       "author": "andreatomalini1211",
       "markup": {
         "element_refs": [
           "9f18a8f9-c8ca-42a3-b1dc-ae8f3bee1d8b"
         ],
-        "pinpoint": {
-          "x": 1.404048042367755,
-          "y": 1.211484434117871,
-          "z": 2.690035825465278e-16
-        }
+        "pinpoint": null
       },
-      "comment": "test medio"
-    },
-    {
-      "guid": "dbzj7u6v9",
-      "title": "Issue",
-      "priority": "High",
-      "index": 0,
-      "creation_date": "2026-01-02T11:03:28.760Z",
-      "author": "andreatomalini1211",
-      "markup": {
-        "element_refs": [
-          "f174d5a9-fcff-4e43-9dba-690d7c8b6d8b"
-        ],
-        "pinpoint": {
-          "x": -5,
-          "y": 1.4432511047235435,
-          "z": 1.3011087732722475
-        }
-      },
-      "comment": "test alto"
-    },
-    {
-      "guid": "3r1krbym8",
-      "title": "Issue",
-      "priority": "Low",
-      "index": 0,
-      "creation_date": "2026-01-02T11:03:53.662Z",
-      "author": "andreatomalini1211",
-      "markup": {
-        "element_refs": [
-          "f04f3851-9f3b-4587-b61f-3ec728b3e128"
-        ],
-        "pinpoint": {
-          "x": 4.979914588808203,
-          "y": 0.7493965040379466,
-          "z": -0.3812243934612594
-        }
-      },
-      "comment": "test basso"
-    },
-    {
-      "guid": "2bevwmazv",
-      "title": "Issue",
-      "priority": "Info",
-      "index": 0,
-      "creation_date": "2026-01-02T11:04:01.436Z",
-      "author": "andreatomalini1211",
-      "markup": {
-        "element_refs": [
-          "8ec67cf8-62ab-4bb7-a5e3-f351f91e8b7e"
-        ],
-        "pinpoint": {
-          "x": 11.20544242307686,
-          "y": 1.7710370699261517,
-          "z": 0.11967219655026934
-        }
-      },
-      "comment": "test info"
+      "comment": "testo alto e probiamo a pubblicarlo "
     }
   ]
 }

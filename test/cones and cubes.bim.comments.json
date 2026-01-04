@@ -2,23 +2,7 @@
   "meta": {
     "version": "1.0",
     "generated_by": "React-BIM-CDE",
-    "date": "2026-01-04T00:10:57.499Z"
+    "date": "2026-01-04T00:30:22.747Z"
   },
-  "topics": [
-    {
-      "guid": "jbb2c0o5v",
-      "title": "Issue",
-      "priority": "High",
-      "index": 0,
-      "creation_date": "2026-01-04T00:05:44.552Z",
-      "author": "andreatomalini1211",
-      "markup": {
-        "element_refs": [
-          "9f18a8f9-c8ca-42a3-b1dc-ae8f3bee1d8b"
-        ],
-        "pinpoint": null
-      },
-      "comment": "testo alto e probiamo a pubblicarlo "
-    }
-  ]
+  "topics": []
 }
